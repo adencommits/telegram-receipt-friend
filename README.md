@@ -68,7 +68,7 @@ pip install telebot requests google-auth google-auth-oauthlib google-api-python-
    Open Telegram and start a conversation with your bot. Send `/start` to initiate the welcome message.
 
 2. **Authenticate**:  
-   The bot will prompt for a password. Enter the correct password (default is `luna`) to proceed.
+   The bot will prompt for a password. Enter the correct password to proceed.
 
 3. **Category Selection**:  
    After authentication, select a category for the receipt (e.g., Food, Travel, Groceries, etc.).
